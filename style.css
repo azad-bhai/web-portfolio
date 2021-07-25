@@ -4,3 +4,7 @@ body{
 .add{
     color:chocolate
 }
+.half-width{
+    width: 40%;
+    float: auto;
+}
