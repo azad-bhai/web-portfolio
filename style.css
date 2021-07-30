@@ -8,7 +8,7 @@
     padding: 1%;
 }
 .half-width img{
-    width: 90%;
+    width: 100%;
     
 }
 h1{
@@ -32,4 +32,13 @@ section{
     color: white;
     font-weight: 700;
     background-image:linear-gradient(red black);
+}
+p{
+    font-style: italic;
+    color: darkmagenta;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
 }
